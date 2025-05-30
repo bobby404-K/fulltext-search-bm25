@@ -1,0 +1,11 @@
+{
+  "name": "fulltext-search-bm25",
+  "version": "1.5.0",
+  "description": "Inverted full-text search engine with BM25 scoring algorithm",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
